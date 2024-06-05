@@ -1,0 +1,554 @@
+body{
+    overflow-x:hidden ;
+    height: 3698px;
+}
+.top-back{
+    background-color: black; 
+    height: 25px;
+    width: 1480px;
+    display:flex;
+    flex-direction: row;
+}
+.top{
+    display:flex;
+    flex-direction: row;
+    margin-left: 1201px;
+   
+}
+.first-img{
+    display:flex;
+    width:15px;
+    margin-top: 5px;
+    margin-left: -22px;
+}
+.first-p{
+    display:flex; 
+    margin-top: -18px;
+    color: white;
+    font-family:huawei sans ;
+}
+.first-img2{
+    display:flex;
+    flex-direction: row;
+    /* margin-left: 1352px; */
+    width: 23px;
+    /* margin-top: 5px; */
+    height: 18px;
+    margin-left: 60px;
+}
+.first-p2{
+    display:flex;
+    flex-direction: row;
+    margin-top: 2px;
+    color: white;
+    font-size: 15px;;
+    margin-left: 91px;
+    margin-top: -15px;
+    font-family:huawei sans ;
+}
+.top1{
+    display:flex;
+    flex-direction: row;
+}
+.top2{
+    display:flex;
+    flex-direction: row;
+}
+.second{
+    display: flex;
+    background-color: #ffffff;
+    width: 1480px;
+    height:62px;
+}
+.second-img{
+    display: flex;
+    height: fit-content;
+    width: 115px;
+    margin-top: 16px;
+    margin-left: 53px
+}
+.secound-c{
+    display: flex;
+    /* flex-direction: column; */
+  justify-content: center;
+  margin-left: 199px;
+  font-family:huawei sans ;
+}
+.secound-c1{
+    display: flex;
+    margin-left: 42px;
+    font-size: 14px;
+    
+}
+.secound-c2{
+    display: flex;
+    margin-left: 42px;
+    font-size: 14px;
+}
+.secound-c3{
+    display: flex;
+    margin-left: 42px;
+    font-size: 14px;
+}
+.secound-c4{
+    display: flex;
+    margin-left: 42px;
+    font-size: 14px;
+}
+.secound-c5{
+    display: flex;
+    margin-left: 42px;
+    font-size: 14px;
+}
+.search{
+    display: flex;
+    width: 25px;
+    height: 27px;
+    margin-left: 240px;
+    margin-top: 10px;
+}
+.third{
+    display: flx;
+    position: reltive;
+    width: 1468px;
+}
+.third-img-cont{
+    
+}
+.third-img{
+    
+    width: 1472.8px;
+}
+
+.third-butt{
+    
+    display: flex;
+    background-color: rgb(199, 0, 11);
+    color: rgb(255, 255, 255);
+    font-size: 17.25px;
+    width: 181px;
+    height: 43px;
+    padding-left: 45px;
+    padding-top: 8px;
+    margin-left: 266px;
+    margin-top: 227px;
+    border-color: rgb(199, 0, 11);
+}
+@font-face {
+    font-family:huawei sans ;
+    src: url(/fonts/Huawei\ Sans.ttf);
+
+}
+.third-butt-cont{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.third-last{
+    position: relative;
+}
+.four-para{
+    text-align: ceter;
+    color: rgb(51, 51, 51);
+    font-size: 26.6px;
+    margin-top: 59px;
+        width:190px;
+        height:56px;
+        font-family:huawei sans ;
+        
+}
+.four-11{
+    position: relative;
+    width: 737px;
+}
+.four-112{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-left: 21px;
+    margin-top: 231px;
+}
+.four-111{
+    width: 700px;
+    height: 344.906px;
+    margin-left: 23px;
+    
+
+   
+}
+.four-12{
+    position: relative;
+  
+}
+.four-122{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 234px;
+    margin-left: 29px;
+}
+.four-121{
+    width: 446.156px;
+    /* width: 350px; */
+    width: 345px;
+    margin-left: -15px;
+}
+.four-1{
+    display:flex;
+    justify-content:center;
+
+}
+.four{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.four-1121{
+    font-size: 14px;
+    font-family: huawei sans;
+    line-height: 32.76px;
+    color: white;
+}
+.four-1122{
+    font-size: 18px;
+    font-family: huawei sans;
+    line-height: 25.6px;
+    color: white;
+    font-weight: bold;
+    margin-top: -20px;
+    width: 279px;
+}
+.four-1123{
+    font-size: 12.5px;
+    font-family: huawei sans;
+    line-height: 33.6px;
+    color: rgb(239, 235, 235);
+    margin-top: -30px;
+}
+.four-1221{
+    font-size: 14px;
+    font-family: huawei sans;
+    line-height: 32.76px;
+    color: white;
+}
+.four-p p{
+    margin: 0 !important;
+}
+.four-1222{
+    font-size: 18px;
+    font-family: huawei sans;
+    /* line-height: 48.6px; */
+    color: white;
+    font-weight: bold;
+    margin-top: -20px;
+    width: 279px;
+}
+.four-1223{
+    font-size: 12.5px;
+    font-family: huawei sans;
+    line-height: 33.6px;
+    color: rgb(239, 235, 235);
+    margin-top: -30px;
+}
+.four-2{
+    display:flex;
+    margin-top: 18px;
+    margin-left: 27px;
+    justify-content:center;
+
+}
+/* .four-31{
+    width: 700px;
+    height: 344.906px;
+}
+.four-3{
+    display:flex;
+    justify-content:center;
+}
+.four-311{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: end; */
+    /* margin-left: 21px;
+    margin-top: 231px;
+}
+.four-3111{
+    font-size: 14px;
+    font-family: huawei sans;
+    line-height: 32.76px;
+    color: white;
+}
+.four-3112{
+    font-size: 14px;
+    font-family: huawei sans;
+    line-height: 32.76px;
+    color: white;} */ 
+
+    /* .four-31{
+        position: relative;
+        width: 737px;
+    }
+    .four-312{
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        margin-left: 21px;
+        margin-top: 231px;
+    }
+    .four-311{
+        width: 700px;
+        height: 344.906px;
+       
+    }
+    .four-32{
+        position: relative;
+        display: flex;
+        margin-left: 189px;
+       
+    }
+    .four-322{
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-top: 232px;
+        margin-left: 20px;
+    }
+    .four-321{
+        width: 446.156px;
+        /* width: 350px; */
+        /* width: 345px;
+        margin-left: 6px;
+    } */
+    /* .four-320{ */
+        /* width: 446.156px; */
+        /* width: 350px; */
+        /* width: 345px;
+        margin-left: 64px;
+} */ 
+/* 
+ */
+ .four-3{
+        
+        display: flex;
+    
+ }
+ 
+ .four-31{
+    display: flex;
+    position:relative;
+    background-color: rgb(255, 255, 255);
+    
+ }
+ .four-img{
+    width: 338.16px;
+    height: 314.86px;
+    
+    
+
+ }
+ .four-p{
+    position:absolute;
+    width: 270px;
+    margin-top: 200px;
+    margin-left: 32px;
+ }
+ .p1{
+    font-size: 14px;
+    font-family: huawei sans;
+    line-height: 32.76px;
+    color: white;
+ }
+ .p2{
+    font-size: 18px;
+    font-family: huawei sans;
+    /* line-height: 48.6px; */
+    color: white;
+    font-weight: bold;
+    margin-top: -20px;
+    width: 279px;
+ }
+ .p3{
+    font-size: 14.5px;
+    font-family: huawei sans;
+    line-height: 24.6px;
+    color: rgb(239, 235, 235);
+    margin-top: -30px;
+ }
+ .horizontal{
+    color: red;
+    width: 20px;
+ }
+ .greenback{
+    margin-top: 110px;
+    position:relative;
+    background-color:  #d4d4d4;
+   
+ }.green-img{
+    width: 1472.8px;
+    height:496.3px;
+ }
+ .l-butt{
+    display: flex;
+    background-color: rgb(199, 0, 11);
+    color: rgb(255, 255, 255);
+    font-size: 17.25px;
+    margin-left: 200px;
+     margin-top: 211px;
+    width: 181px;
+    height: 43px;
+    padding-left: 45px;
+    padding-top: 8px;
+    border-color: rgb(199, 0, 11);
+}
+.news-head{
+    align-content: ceter;
+    font-family:huawei sans ;
+    font-size: 26.6px;
+    margin-top: 59px;
+    font-weight: bolder;
+    margin-left: 640px;
+        
+}
+.background{
+    background-color:  #f0efef;
+}
+.event-1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 42px;
+    position: relative;
+    background-color:#f6f6f6;
+    width: 390px;
+    height: 438px;
+    position: relative;
+}
+.event-img{
+    position: absolute;
+    width: 390px;
+    height: 244px;
+}
+.event-txt{
+    position: absolute;
+    margin-top: 246px;
+    margin-left: 35px;
+}
+.eve{
+    position: absolute;
+    background-color: rgb(140, 138, 138);
+width: 66px;
+margin-top: 2px;
+height: 30px;
+color: #ffffff;
+padding-top: 7px;
+    padding-left: 6px;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+}
+.textgraph{
+    font-family: huawei sans; 
+    margin-left: 18px;
+  
+}
+.buttonn{
+   
+    background-color: white;
+    color: black;
+    border-block-color: black;
+    width: 175px;
+    height: 37px;
+    margin-top: 71px;
+}
+.foot-last{
+    display:flex;
+    flex-direction: row;
+}
+.foot-search{
+    width: 20px;
+}
+.bg-color{
+    background-color:rgb(215, 215, 215); 
+    width: 500px;
+    height: 500px;
+
+}
+.footer{
+    background-color: rgb(244 244 244);
+    width: 1474px;
+    height: 505px;
+    margin-top: 67px;
+
+}
+.home{
+
+}
+.footer-head{
+
+}
+.footer-para{
+    font-family: huawei sans;
+    font-size: 14px;
+    color: #333333;
+}
+.about-huawei{
+    display: flex;
+    flex-direction: column;
+    line-height: 7px;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.footer-image{
+    margin-left: 981px;
+    margin-top: -49px;
+    
+}
+.final{
+    display: flex;
+    background-color: #6666;
+    width: 1475px;
+
+
+}
+.text-1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 42px;
+    line-height: 28px;
+}
+.text-2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 42px;
+    line-height: 28px;
+}
+.text-3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 42px;
+    line-height: 28px;
+}
+.event-text{
+    display: flex;
+    flex-direction: column;
+    margin-top: 42px;
+    position: relative;
+    background-color: #f6f6f6;
+    width: 390px;
+    height: 438px;
+    position: relative;
+    justify-content: space-between;
+}
